@@ -8,7 +8,7 @@ A full-stack real-time social media application built using **Angular**, **Node.
 
 ![Home](./screenshots/home.png)
 ![Docs](./screenshots/Docs.png)
-![API](./screenshots/API.png)
+![Docs](./screenshots/API.png)
 
 ---
 
